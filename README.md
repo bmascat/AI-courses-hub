@@ -21,4 +21,7 @@ This repository contains materials from various free online courses related to M
 
 - **MLOps specialization**, if you miss something in this folder, visit the original [repository](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main).
 
+*Note*: this course has been removed from coursera. Updated first course is [here](https://www.deeplearning.ai/courses/machine-learning-in-production/)
+A few months ago I was working on a database migration and I used this python library to generate test datasets.
+
 Feel free to explore each folder to find the course materials and resources that interest you. This repository is a great starting point for anyone looking to deepen their understanding of ML and AI through practical examples and exercises.
