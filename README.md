@@ -17,4 +17,8 @@ This repository contains materials from various free online courses related to M
 - **Pair Programming with LLMs** [Link to course](https://www.deeplearning.ai/short-courses/pair-programming-llm/)
 - **JS RAG full-stack app** [Link to course](https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/)
 
+### Deeplearning.ai (Specialization Courses):
+
+- **MLOps specialization**, if you miss something in this folder, visit the original [repository](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main).
+
 Feel free to explore each folder to find the course materials and resources that interest you. This repository is a great starting point for anyone looking to deepen their understanding of ML and AI through practical examples and exercises.
