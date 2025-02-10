@@ -1,0 +1,19 @@
+1) Página de NeuroNLP2:
+   https://github.com/XuezheMax/NeuroNLP2
+   
+2) Página de NCRFpp:
+   https://github.com/jiesutd/NCRFpp
+   
+3) Guías de Keras:
+   3.a) Como crear arquitecturas de red con el modelo funcional:
+        https://keras.io/guides/sequential_model/
+   3.b) Como crear modelos de red con la API funcional
+        https://keras.io/guides/functional_api/
+   3.c) Entrenamiento y evaluación de modelos:
+        https://keras.io/guides/training_with_built_in_methods/
+   3.d) Preprocesamiento de la entrada:
+        https://keras.io/guides/preprocessing_layers/
+   3.e) Redes recurrentes:
+        https://keras.io/guides/working_with_rnns/
+   3.f) Como usar word embeddings en el entrenamiento:
+        https://keras.io/examples/nlp/pretrained_word_embeddings/

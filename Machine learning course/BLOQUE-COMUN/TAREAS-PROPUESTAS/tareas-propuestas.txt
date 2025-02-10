@@ -1,0 +1,14 @@
+Posibles tareas a realizar para el bloque común, a escoger por los alumnos:
+
+* Ejemplo de uso de NeuroNLP2 o NCRFpp para etiquetación morfosintáctica
+  - (Dataset) Universal dependencies: https://universaldependencies.org
+
+* Ejemplo de uso de NeuroNLP2 o NCRFpp para reconocimiento de entidades nombradas.
+  - (Dataset) CONLL03: https://www.clips.uantwerpen.be/conll2003/ner/
+
+* Ejemplo de uso de NeuroNLP2 para análisis sintáctico de dependencias.
+  - (Dataset) Universal dependencies: https://universaldependencies.org
+
+* Construcción de una herramienta de clasificación de texto con Keras y TensorFlow
+
+* Construcción de una herramienta de análisis de sentimiento con Keras y TensorFlow

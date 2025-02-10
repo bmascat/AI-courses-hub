@@ -1,0 +1,193 @@
+ITINERARIOS:
+============
+
+Dada la heterogeneidad en la formación del alumnado matriculado, cada
+participante podrá escoger entre los dos siguientes itinerarios:
+
+ITINERARIO I  (alumnos SIN conocimientos en ML) = PRESENTACIÓN COMÚN +
+                                                  BLOQUE BÁSICO +
+                                                  BLOQUE COMÚN +
+						  TAREAS
+
+ITINERARIO II (alumnos CON conocimientos en ML) = PRESENTACIÓN COMÚN +
+                                                  BLOQUE COMÚN +
+						  BLOQUE AVANZADO +
+						  TAREAS
+
+para su evaluación, si bien podrá asistir a todas las clases que
+desee, dentro de su itinerario o no.
+
+El itinerario escogido será comunicado al responsable del curso
+(M. Vilares) vía email antes del 25/04/21.
+
+PRESENTACIÓN + ELECCIÓN ITINERARIOS
+-----------------------------------
+
+Fechas: 23/04/21
+
+Horario: 16:00 - 20:00
+
+Lugar: E. S. de Enxeñaría Informática - Sala de xuntas 2
+
+       https://campusremotouvigo.gal/access/public/meeting/106793692
+
+       Clave estudiantes: zs63WkMU
+
+Profesorado: V.M. Darriba (darriba@uvigo.es),
+             F.J. Ribadas (ribadas@uvigo.es),
+             M. Vilares   (vilares@uvigo.es)
+
+Contenidos:
+
+   i)   Presentación general
+
+   ii)  Elección de itinerarios
+
+   iii) Material de estudio (apuntes, bibliografía, ...)
+
+BLOQUE BÁSICO 
+-------------
+
+Fechas: 30/04/21
+
+Horario: 16:00 - 20:00 (~ 2h de presentación por el profesor)
+
+Lugar: E. S. de Enxeñaría Informática - Sala de xuntas 2
+
+       https://campusremotouvigo.gal/access/public/meeting/106793692
+
+       Clave estudiantes: zs63WkMU
+
+Profesorado: F.J. Ribadas (ribadas@uvigo.es)
+
+Contenidos:
+
+   Conceptos generales
+   
+   Modelos computacionales (supervisados): 
+
+   i)   Árboles de decisión
+   ii)  k-nearest neighbors
+   iii) SVM (Support Vector Machines)
+   iv)  Combinación de clasificadores (ensemble learning)
+
+   Introducción a las redes de neuronas artificales (sistemas conexionistas)
+   
+BLOQUE COMÚN 
+------------
+
+Fechas: 07/05/21 
+
+Profesorado: V.M. Darriba (darriba@uvigo.es)
+
+Horario: 16:00 - 20:00 (~ 2h de presentación por el profesor)
+
+Fechas: 07/05/21 
+
+Lugar: E. S. de Enxeñaría Informática - Sala de xuntas 2
+
+       https://campusremotouvigo.gal/access/public/meeting/106793692
+
+       Clave estudiantes: zs63WkMU
+
+Contenidos:
+
+   Implementación de sistemas conexionistas (caso de estudio, PLN)
+
+BLOQUE AVANZADO 
+---------------
+
+Fechas: 14/05/21 
+
+Profesorado: M. Vilares (vilares@uvigo.es)
+
+Horario: 16:00 - 20:00 (~ 2h de presentación por el profesor)
+
+Lugar: E. S. de Enxeñaría Informática - Sala de xuntas 2
+
+       https://campusremotouvigo.gal/access/public/meeting/106793692
+
+       Clave profesor: 4pa84HHW
+
+       Clave estudiantes: zs63WkMU
+
+Contenidos:
+
+   Selección de modelos:
+
+   i)   Detección de sobrecargas.
+
+   ii)  Predicción del rendimiento: márgenes de error y robustez. 
+ 
+   iii) Optimización del muestreo (SVM).
+
+TAREAS 
+======
+
+Fechas: 23 y 30/04/21, 
+        07 y 14/05/21, 
+	21/05/21       
+
+Profesorado: V.M. Darriba (darriba@uvigo.es),
+             F.J. Ribadas (ribadas@uvigo.es),
+             M. Vilares   (vilares@uvigo.es)
+
+Horario: 16:00 - 20:00, una vez descontado el tiempo de teoría en los días
+
+            23 y 30/04/21,
+            07 y 14/05/21
+
+        y todo el tiempo de clase el día 21/05/21.
+
+        En total ~ 14h.
+
+Lugar: E. S. de Enxeñaría Informática - Sala de xuntas 2
+
+       https://campusremotouvigo.gal/access/public/meeting/106793692
+
+       Clave profesor: 4pa84HHW
+
+       Clave estudiantes: zs63WkMU
+
+Contenidos:
+
+      Entregable a enviar al responsable del curso (vilares@uvigo.es)
+      una vez finalizado el curso. Cada alumno presentará un
+      entregable (al menos) de entre los ofertados por los
+      profesores. Ese entregable será objeto de defensa por parte del
+      alumno ante el profesor que lo ha ofertado.
+
+RESOLUCIÓN DE DUDAS
+===================
+
+Se realizarán en las aulas personales de los profesores en Campus
+Remoto, previa concertación de cita vía email con el profesor, siempre
+en el horario del curso:
+
+Víctor M. DARRIBA BILBAO
+------------------------
+
+Aula: https://campusremotouvigo.gal/access/public/meeting/448025197
+
+Password: HMmMq1Xq
+
+Francisco J. RIBADAS PENA
+-------------------------
+
+Aula:  https://campusremotouvigo.gal/access/public/meeting/833444977
+
+Password: Despacho303
+
+Manuel VILARES FERRO:
+---------------------
+
+Aula: https://campusremotouvigo.gal/access/public/meeting/111912971
+
+Password: X493eQzG
+
+EVALUACIÓN:
+==========
+
+Se evaluará la asistencia, participación y (al menos) un entregable
+(este último será objeto de una defensa) de entre los propuestos por
+los profesores dentro del itinerario escogido por el alumno.

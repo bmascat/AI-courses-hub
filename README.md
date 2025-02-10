@@ -31,6 +31,6 @@ A few months ago I was working on a database migration and I used this python li
 ### University of Vigo:
 
 - **Data mining with R**
-
+- **Machine learning course**
 
 Feel free to explore each folder to find the course materials and resources that interest you. This repository is a great starting point for anyone looking to deepen their understanding of ML and AI through practical examples and exercises.
