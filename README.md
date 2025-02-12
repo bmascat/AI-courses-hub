@@ -25,12 +25,19 @@ This repository contains materials from various free online courses related to M
     - Course 3: Machine Learning Modeling Pipelines in Production
     - Course 4: Deploying Machine Learning Models in Production
 
-*Note*: this course has been removed from coursera. Updated first course is [here](https://www.deeplearning.ai/courses/machine-learning-in-production/)
-A few months ago I was working on a database migration and I used this python library to generate test datasets.
+*Note*: this course has been removed from coursera. Updated first course is [here](https://www.deeplearning.ai/courses/machine-learning-in-production/).
 
 ### University of Vigo:
 
+PhD courses related with ML/AI taken during my thesis.
 - **Data mining with R**
 - **Machine learning course**
+
+### Campus Dual TIC:
+
+- **Bootcamp AI engineering** The original repo of the bootcamp is [here](https://github.com/SebKleiner/CursoGenAIEngineer)
+    - Module 1: Introduction to AI
+    - Module 2: AI engineering
+    - Module 3: Advanced AI
 
 Feel free to explore each folder to find the course materials and resources that interest you. This repository is a great starting point for anyone looking to deepen their understanding of ML and AI through practical examples and exercises.
